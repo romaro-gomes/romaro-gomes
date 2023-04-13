@@ -1,16 +1,19 @@
-### Hi there 👋
+English -------------------------------------------------------------------------------------------------------------------------
+### Hello 👋
 
-<!--
-**romaro-gomes/romaro-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Romario. I'm a data lover. My main language is R, but I know python, JavaScript, C# and Solidity.
 
-Here are some ideas to get you started:
+Here you will find some projects about data analyst/science/engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm very happy to see you here .
+
+
+Brazuca ----------------------------------------------------------------------------------------------------------
+### Olá 👋
+
+Eu sou o Romário. Eu sou um amante de dados. Minha linguagem principal é R, mas conheço python, JavaScript, C# e Solidity.
+
+Aqui você encontrará alguns projetos sobre analista de dados/ciência/engenharia.
+
+Estou muito feliz em ver você aqui.
+
