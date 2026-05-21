@@ -19,7 +19,7 @@ I am studying Data Science and Digital Health. I am very passionate about artifi
 
 ---
 
-## Olá! Eu sou o Romário (Versão em Português)
+## Olá! Eu sou o Romario 
 
 Sou um estudante e entusiasta de Dados e Inteligência Artificial com foco em Saúde Digital. Meu objetivo é aplicar a tecnologia para estudar dados de saúde e entender como a IA pode ajudar o setor médico.
 
